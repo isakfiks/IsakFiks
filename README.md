@@ -40,7 +40,6 @@
 
 ## 💡 Fun facts
 - **Recent obsession**: UI/UX design patterns – making things look and feel incredibly clean.
-- **Dream project**: Creating something that blends the power of AI with the gaming experience. 🎮🤖
 
 ---
 
