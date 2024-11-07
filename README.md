@@ -42,4 +42,6 @@
 - **Recent obsession**: UI/UX design patterns – making things look and feel incredibly clean.
 
 ---
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=isakfiks&label=Profile%20Views&color=0&icon=5&pretty=true" />
+</a>
