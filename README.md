@@ -8,7 +8,6 @@
 
 ### 📫 Where to contact me
 - Email: [isakfiksdal@outlook.com](mailto:isakfiksdal@outlook.com)
-- Website: [velix.no](https://velix.no) 
 
 ---
 
