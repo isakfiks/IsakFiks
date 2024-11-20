@@ -33,7 +33,6 @@
 ![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 
 ### Databases:
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 ---
