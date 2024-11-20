@@ -1,8 +1,7 @@
 # Hello there! 👋 I'm **Isak**
 
-### A Full-Stack Developer from the beautiful landscapes of Norway 🇳🇴
+### A Developer from Norway 🇳🇴
 
-- ✨ I’m currently working on exciting **closed-source projects** that push boundaries and solve real-world challenges.
 - 🌱 Always learning and currently diving deep into **C#** and **UI Design** to sharpen my skills.
 - 💬 Feel free to ask me about **Next.js**, **React**, **JavaScript**, and **Python** – I'm always up for a coding conversation!
 - 🤝 Looking to collaborate? I'm always open to working on new projects, so feel free to reach out!
