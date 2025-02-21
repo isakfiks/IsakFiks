@@ -2,7 +2,7 @@
 
 ### A Developer from Norway 🇳🇴
 
-- 🌱 Always learning and currently diving deep into **C#** and **UI Design** to sharpen my skills.
+- 🌱 Always learning and currently diving deep into **App Development**.
 - 💬 Feel free to ask me about **Next.js**, **React**, **JavaScript**, and **Python** – I'm always up for a coding conversation!
 - 🤝 Looking to collaborate? I'm always open to working on new projects, so feel free to reach out!
 
@@ -33,10 +33,6 @@
 ### Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
----
-
-## 💡 Fun facts
-- **Recent obsession**: UI/UX design patterns – making things look and feel incredibly clean.
 
 ---
 <a href="https://visitcount.itsvg.in">
