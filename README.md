@@ -8,6 +8,7 @@
 
 ### 📫 Where to contact me
 - Email: [isakfiksdal@outlook.com](mailto:isakfiksdal@outlook.com)
+- Need a website? Hire me through [Velix](https://velix.no)
 
 ### 🎯 Current Goals
 - ⛵️ Ship my upcoming SaaS
