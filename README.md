@@ -9,6 +9,9 @@
 ### 📫 Where to contact me
 - Email: [isakfiksdal@outlook.com](mailto:isakfiksdal@outlook.com)
 
+### 🎯 Current Goals
+- ⛵️ Ship my upcoming SaaS
+- 🚀 Learn more about SoMe Marketing 
 ---
 
 ## 🛠️ My Toolbox
