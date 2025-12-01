@@ -11,7 +11,7 @@
 - Need a website/app? Hire me through [My Website](https://isakfiks.me/contact)
 
 ### 🎯 Current Goals
-- ⛵️ Ship my upcoming SaaS
+- ⛵️ Grow [Structa](https://trystructa.com) to 500 users
 - 🚀 Learn more about SoMe Marketing 
 ---
 
